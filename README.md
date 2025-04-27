@@ -3,7 +3,7 @@
 <p align="center"> </p>
 
 <p align="center">
-  <img src="https://github.com/liguodongiot/llm-action/blob/main/pic/llm-action-v3.png" >
+  <img src="https://github.com/miracle-techlink/LLM-Guide/pic/first-pic.png" >
 </p>
 
 
