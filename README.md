@@ -3,7 +3,7 @@
 <p align="center"> </p>
 
 <p align="center">
-  <img src="https://github.com/miracle-techlink/LLM-Guide/pic/first-pic.png" >
+  <img src="https://github.com/miracle-techlink/LLM-Guide/blob/main/pic/first-pic.png" >
 </p>
 
 
