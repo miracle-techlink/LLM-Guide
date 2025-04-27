@@ -9,7 +9,7 @@
 
 <p> 
 <a href="https://github.com/miracle-techlink/LLM-Guide">
-<a href="https://liguodong.blog.csdn.net/"> <img src="https://img.shields.io/badge/CSDN-吃不饱睡不醒流泪猫猫头-liu190959.svg"> </a>
+<a href="https://blog.csdn.net/liu190959?spm=1011.2124.3001.5343"> <img src="https://img.shields.io/badge/CSDN-吃不饱睡不醒流泪猫猫头-liu190959.svg"> </a>
 </p> 
 
 
