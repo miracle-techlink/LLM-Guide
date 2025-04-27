@@ -64,7 +64,7 @@
 - **论文:** [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2206.07152)
 - **论文:** [Gated Linear Attention Transformers with Hardware-Efficient Training](https://arxiv.org/abs/2209.01377)
 - **论文:** [Gated Delta Networks: Improving Mamba2 with Delta Rule](https://arxiv.org/abs/2209.08535)
-- **技术解读:** [手撕Linear attention]()
+- **技术解读:** [手撕Linear attention](https://miracle-techlink.github.io/posts/df2d3022.html)
 - **解读:** 这篇论文提出通过线性注意力来解决传统Transformer在处理长序列时的计算瓶颈，提高了处理速度和效率。
 
 **7. 稀疏注意力（Sparse Attention）**
