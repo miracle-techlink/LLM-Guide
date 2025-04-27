@@ -13,7 +13,8 @@
 </p> 
 
 
-> LLM-guide,是个人的学习笔记，希望帮助到更多人，涵盖了tuning,RLHF,硬件优化，底层架构优化，infra多维度的内容, 欢迎点Star、分享与提PR🌟~<br>【 <a href="https://github.com/miracle-techlink/LLM-Guide">LLM-Guide</a>, Latest Update: April, 2025 】
+> LLM-guide,是个人的学习笔记，希望帮助到更多人，涵盖了tuning,RLHF,硬件优化，底层架构优化，infra多维度的内容, 欢迎点Star、分享与提PR🌟~<br>
+**大模型2.0 下一代高效推理范式**【 <a href="https://github.com/miracle-techlink/LLM-Guide">LLM-Guide</a>, Latest Update: April, 2025 】
 
 ## 目录
 - 🐼 [LLM分布式训练](#LLM分布式训练)
