@@ -62,7 +62,7 @@
 - **论文:** [MoBA: Mixture of Block Attention for Long-Context LLMs](https://arxiv.org/abs/2207.07744)
 - **论文:** [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2209.10899)
 - **技术解读:** [手撕Sparse attention]()
-- **解读:**稀疏注意力的核心在于通过减少计算量和内存使用，优化传统自注意力机制，使其能够高效处理长序列数据。
+- **解读:** 稀疏注意力的核心在于通过减少计算量和内存使用，优化传统自注意力机制，使其能够高效处理长序列数据。
   
 **[⬆ 一键返回目录](#目录)**
 ---
