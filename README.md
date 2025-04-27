@@ -1,11 +1,16 @@
-<h1 align="center">大模型2.0 下一代推理与技术范式 LLM-Guide</h1>
+<h1 align="center">大模型2.0 下一代高效推理范式 LLM-Guide</h1>
 
 <p align="center"> </p>
 
 
 > LLM-guide,是个人的学习笔记，希望帮助到更多人，涵盖了tuning,RLHF,硬件优化，底层架构优化，infra多维度的内容, 欢迎点Star、分享与提PR🌟~<br>【 <a href="https://github.com/miracle-techlink/LLM-Guide">LLM-Guide</a>, Latest Update: April, 2025 】
 
+### LLM分布式训练
+**1.基础概念**
+- **技术解读:** [LLM分布式训练---基础概念](https://miracle-techlink.github.io/posts/9aac52d9.html)
 
+**2.数据并行**
+- **技术解读：**[LLM分布式训练---数据并行](https://miracle-techlink.github.io/posts/3a50363.html)
 
 
  **[⬆ 一键返回目录](#目录)**
@@ -44,23 +49,13 @@
 
 **7. 稀疏注意力（Sparse Attention）**
 - **论文:** [H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models](https://arxiv.org/abs/2207.05308)
-- **链接:** [H2O: Heavy-Hitter Oracle](https://link_to_paper.com)
-
 - **论文:** [MoBA: Mixture of Block Attention for Long-Context LLMs](https://arxiv.org/abs/2207.07744)
-- **链接:** [MoBA: Mixture of Block Attention](https://link_to_paper.com)
-
 - **论文:** [Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention](https://arxiv.org/abs/2209.10899)
-- **链接:** [Native Sparse Attention](https://link_to_paper.com)
 
 **8. 线性注意力（Linear Attention）**
 - **论文:** [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2206.07152)
-- **链接:** [Mamba: Linear-Time Sequence Modeling](https://link_to_paper.com)
-
 - **论文:** [Gated Linear Attention Transformers with Hardware-Efficient Training](https://arxiv.org/abs/2209.01377)
-- **链接:** [Gated Linear Attention](https://link_to_paper.com)
-
 - **论文:** [Gated Delta Networks: Improving Mamba2 with Delta Rule](https://arxiv.org/abs/2209.08535)
-- **链接:** [Gated Delta Networks](https://link_to_paper.com)
   
 **[⬆ 一键返回目录](#目录)**
 ---
